@@ -1,2 +1,3 @@
-# d2-translation
-Duelyst 2 Translation with Weblate
+# Duelyst 2 Spanish Translation
+
+Duelyst 2 Translation

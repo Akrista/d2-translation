@@ -1,9 +1,0 @@
-{
-  "live_streams_label": "Transmisiones en Directo",
-  "replays_label": "Repeticiones",
-  "empty_division_replays_message": "Todavía no hay partidas para ver en esta división. Vuelve pronto.",
-  "watch_on_twitch_message": "Ver en Twitch",
-  "stream_live_message": "EN VIVO",
-  "stream_offline_message": "SIN CONEXIÓN",
-  "opens_in_browser_tooltip": "Abrir en el Navegador"
-}
